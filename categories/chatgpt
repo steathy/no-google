@@ -1,3 +1,22 @@
 # This blocklist helps to restrict access to chatgpt and its domains
 # Last updated: 2024-10-12
 # Nest
+
+chatgpt.com
+chat.com
+openai.com
+chat.openai.com
+claude.ai
+www.anthropic.com
+platform.openai.com
+bard.google.com
+cloud.google.com
+www.jasper.ai
+www.perplexity.ai
+heypi.com
+www.notion.so
+www.grammarly.com
+www.copy.ai
+writesonic.com
+cohere.com
+huggingface.co
